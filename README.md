@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on OpenAI
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact:I have love and potential at art, music,... So that my first decision at my career is digital designer, not CSE. Unfortunately, I don't have enough time and strong mind to follow my dream.
+- ⚡ Fun fact:I have love and potential at art, music,... So that my first decision at my career is digital designer, not CSE. Unfortunately, I don't have enough time and strong minded to follow my dream.
 
 <!---
 Kenjtermine/Kenjtermine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
